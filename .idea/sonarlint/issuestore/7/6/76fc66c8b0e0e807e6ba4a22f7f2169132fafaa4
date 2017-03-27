@@ -1,0 +1,16 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¶®¹´ıÿÿÿÿ8ñ‹º¯+
+Asquid:S1166"%Either log or rethrow this exception.(›³âÄ8îâÁº¯+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(„†ñˆ8§×‚º¯+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œÊÆÒúÿÿÿÿ8ñ‹º¯+
+Ysquid:S1197"8Move the array designator from the variable to the type.(æÚïÒıÿÿÿÿ8ó®¯µ¯+
+Csquid:S1068"'Remove this unused "col" private field.(ÙÅŒ8¢€º¯+
+1squid:S1220""Move this file to a named package.
+Gsquid:S1068"&Remove this unused "db" private field.(Ùì¤üÿÿÿÿ8ÒÇ”º¯+
+^squid:UnusedPrivateMethod"4Remove this unused private "addResourceFile" method.(ìøôù8“Ğ±º¯+
+Psquid:S1068"/Remove this unused "xmlResource" private field.(Ä³Åâÿÿÿÿÿ8šõƒº¯+
+jsquid:S3008"NRename this field "URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûí¯…8ó®¯µ¯+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îâÁº¯+
+Rsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8õ”œ¶¯+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìøôù8“Ğ±º¯+

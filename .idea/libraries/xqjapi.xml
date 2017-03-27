@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="xqjapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/xqjapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/exist-xqj-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/exist-optional.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/xqj2-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/exist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/log4j-api-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/log4j-core-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/log4j-jul-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/log4j-slf4j-impl-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/xmldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/xmlrpc-client-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/xmlrpc-common-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/xmlrpc-server-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARS/JARS/lib/core/ws-commons-util-1.0.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
